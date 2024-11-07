@@ -3,7 +3,7 @@
 </p>
 
 <h1>Deploying On-Premises Active Directory in the Cloud (Azure)</h1>
-This lab demonstrates how to set up a domain controller in Microsoft Azure for a future series of Active Directory labs.
+In this hands-on lab, I will configure multiple network file shares and assign tailored permissions to a user account previously created in earlier labs. This exercise will focus on controlling access to shared resources by defining specific permissions based on the user's role, ensuring proper security measures are implemented across the network.
 
 <h2>Environments and Technologies Used</h2>
 <ul>
