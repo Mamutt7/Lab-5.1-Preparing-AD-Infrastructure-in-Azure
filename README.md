@@ -3,7 +3,7 @@
 </p>
 
 <h1>Deploying On-Premises Active Directory in the Cloud (Azure)</h1>
-In this hands-on lab, I will configure multiple network file shares and assign tailored permissions to a user account previously created in earlier labs. This exercise will focus on controlling access to shared resources by defining specific permissions based on the user's role, ensuring proper security measures are implemented across the network.
+In this home lab, I’ll set up a Domain Controller (DC) and a Client VM in Azure. After creating the necessary network resources, I’ll deploy "DC-1" with a static IP and disable its firewall. Then, I’ll create "Client-1," set its DNS to DC-1’s IP, and verify connectivity by pinging DC-1 and checking DNS settings.
 
 <h2>Environments and Technologies Used</h2>
 <ul>
